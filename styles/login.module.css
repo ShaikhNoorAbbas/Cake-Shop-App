@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px) {
+    .head{
+        margin: 100px auto;
+    }
+    .paper{
+        height: 90vh;
+    }
+    .order{
+        margin-top: 100px;
+    }
+}
